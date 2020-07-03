@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/Encryption-Decryption/task/build/
+/Encryption-Decryption/task/out/
+/Encryption-Decryption/task/out/production/classes/
+/Problems/Burger store/out/
+/Problems/Burger store/out/production/classes/
+/Problems/Pick your team/out/
+/Problems/Pick your team/out/production/classes/
+/Problems/Static factory methods for Time/out/
+/Problems/Static factory methods for Time/out/production/classes/
